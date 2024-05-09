@@ -1,0 +1,20 @@
+baseURL = 'https://idumea.post-self.ink/'
+languageCode = 'en-us'
+title = 'Idumea'
+theme = 'maddybook'
+paginatePath = ""
+disablePathToLower = true
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Rye Progress'
+    home = 'https://makyo.ink/'
+    copyright = '2024'
+    subtitle = 'A Post-Self Story'
+    subtitleLink = 'https://post-self.ink'
+    customCSS = ['/css/idumea.css']
+
+[markup.goldmark.renderer]
+    unsafe = true
