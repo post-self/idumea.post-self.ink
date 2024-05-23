@@ -1,3 +1,5 @@
+\version "2.24.1"
+
 % The Sacred Harp book uses an older British/French bass clef.
 % Source: https://lilypond.miraheze.org/wiki/Alten_Bassschl%C3%BCssel_erstellen
 alt-clef =
@@ -37,14 +39,15 @@ alt-clef =
   (cons -1.3 1))
 
 \header {
-  title = \markup { \sans "IDUMEA.    C.M." }
+  subtitle = \markup { \huge \sans  "IDUMEA.   C.M." }
+  title = \markup { \large \sans "77" }
   dedication = \markup { \small "“A time to be born and a time to die.” — " \smallCaps "Eccl. 3:2" }
   tagline = ##f
-  composer = "A. Davidson, 1817."
-  poet = "Chas. Wesley, 1753.    Key of A Minor."
+  composer = \markup { \small "A. Davidson, 1817." }
+  poet = \markup { \small "Chas. Wesley, 1753.    Key of A Minor." }
 }
 
-#(set! paper-alist (cons '("trade" . (cons (* 8.5 in) (* 5.5 in))) paper-alist))
+#(set! paper-alist (cons '("trade" . (cons (* 5.5 in) (* 8.5 in))) paper-alist))
 \paper  {
   #(define fonts
     (make-pango-font-tree "Gentium Book Plus"
@@ -52,12 +55,24 @@ alt-clef =
                           "Ubuntu Mono"
                           (/ staff-height pt 20)))
   #(set-paper-size "trade")
-  top-margin = 1.5\in
+  
   indent = 0.0
+    
+  % Print
+  left-margin = 0.75\in
+  right-margin = 0.5\in
+  top-margin = 1.1\in
+
+  
+  % Web
+  %top-margin = 0\in
+  %left-margin = 0\in
+  %right-margin = 0\in
+  %bottom-margin = 0\in
 }
 
 \layout {
-  #(layout-set-staff-size 12.2)
+  #(layout-set-staff-size 13.5)
   \context {
     \Score
     \override Clef.stencil =
@@ -71,6 +86,11 @@ alt-clef =
           ((equal? glyph "clefs.F_change")
            (ly:stencil-scale alt-clef (* .8 mlt) (* .8 mlt)))
           (else (ly:clef::print grob)))))
+    \omit BarNumber
+    
+    \Lyrics
+    \override LyricText.font-name = #"Gentium Book Plus"
+    %\override LyricText.self-alignment-X = #LEFT
   }
 }
 
