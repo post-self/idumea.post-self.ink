@@ -39,9 +39,18 @@ alt-clef =
   (cons -1.3 1))
 
 \header {
-  subtitle = \markup { \huge \sans  "IDUMEA.   C.M." }
-  title = \markup { \large \sans "77" }
-  dedication = \markup { \small "“A time to be born and a time to die.” — " \smallCaps "Eccl. 3:2" }
+  subtitle = \markup {
+    \column {
+      \fill-line {
+        \line { \null }
+        \center-column { \huge \sans  "IDUMEA.   C.M."}
+        \line { \huge \sans "77" }
+      }
+      \fill-line {
+        \line \raise #1 { \teeny \normal-text "“A time to be born and a time to die.” — " \teeny \normal-text \smallCaps "Eccl. 3:2" }
+      }
+    }
+  }
   tagline = ##f
   composer = \markup { \small "A. Davidson, 1817." }
   poet = \markup { \small "Chas. Wesley, 1753.    Key of A Minor." }
@@ -87,10 +96,10 @@ alt-clef =
            (ly:stencil-scale alt-clef (* .8 mlt) (* .8 mlt)))
           (else (ly:clef::print grob)))))
     \omit BarNumber
-    
+  }
+  \context {
     \Lyrics
     \override LyricText.font-name = #"Gentium Book Plus"
-    %\override LyricText.self-alignment-X = #LEFT
   }
 }
 
@@ -124,7 +133,6 @@ bassnotes = {
   a2 g1 a4( b) a1 e2 a,1 c2 g1 c2 a,1 c4(d) e1 e2 a1.
 }
 
-
 % Lyrics
 lyricsone = {
   \lyricmode {
@@ -152,6 +160,7 @@ lyricsfour = {
     And see the __ judge with __ glo -- ry __ crowned, and see the __ flam -- ing __ skies.
   }
 }
+
 
 % Put it all together
 \score {
