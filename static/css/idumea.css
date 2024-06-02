@@ -2,6 +2,7 @@
 
 body, main {
     font-family: "Gentium Plus", serif;
+    overflow-x: clip;
 }
 
 h1, h2, h3 {

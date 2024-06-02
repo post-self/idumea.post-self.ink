@@ -67,9 +67,9 @@ alt-clef =
   
   indent = 0.0
     
-  % Print
-  left-margin = 0.75\in
-  right-margin = 0.5\in
+  % Print — verso page
+  left-margin = 0.5\in
+  right-margin = 0.75\in
   top-margin = 1.1\in
 
   
