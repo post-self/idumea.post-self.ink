@@ -2,6 +2,9 @@
 
 body, main {
     font-family: "Gentium Plus", serif;
+}
+
+body {
     overflow-x: clip;
 }
 
