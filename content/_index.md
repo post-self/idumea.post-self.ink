@@ -11,6 +11,8 @@
 >
 > But me, friends? What will become of me?
 
+[Kickstarter campaign coming soon!](https://www.kickstarter.com/projects/drabmakyo/idumea)
+
 ## Content notes
 
 This book touches on the plots of [The Post-Self Cycle](https://post-self.ink/cycle), as well as that of [*Marsh*](https://marsh.post-self.ink). It is still a standalone novel, but might benefit from having read those works first. These works and more may all be found [post-self.ink](https://post-self.ink) as paperbacks, ebooks, and free to read in the browser.
