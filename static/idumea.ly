@@ -70,7 +70,7 @@ alt-clef =
   % Print — verso page
   left-margin = 0.5\in
   right-margin = 0.75\in
-  top-margin = 1.5\in
+  top-margin = 1.3\in
 
   
   % Web

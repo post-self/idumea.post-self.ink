@@ -5,6 +5,9 @@ theme = 'maddybook'
 paginatePath = ""
 disablePathToLower = true
 
+[pagination]
+    path = ""
+
 [permalinks]
     post = '/:filename/'
 
