@@ -269,6 +269,8 @@ From Qohelet 3:20:
 
 Cf. Miłosz:
 
+> wystarczy pozwolić człowiekowi\
+> wytruć swój rodzaj\
 > a nastąpią niewinne wschody słońca\
 > nad florą i fauną wyzwoloną
 >
@@ -282,27 +284,22 @@ Cf. Miłosz:
 > zniknie ze świata zło\
 > kiedy zniknie świadomość
 >
-> rzeczywiście panie Tadeuszu\
-> zło (i dobro) bierze się z człowieka
->
 > -----
 >
-> the innocent sunrise will illuminate\
-> a liberated flora and fauna
->
-> where oak forests reclaim\
-> the postindustrial wasteland\
-> and the blood of a deer\
-> torn asunder by a pack of wolves\
-> is not seen by anyone\
-> a hawk falls upon a hare\
-> without witness
->
-> evil disappears from the world\
-> and consciousness with it
->
-> Of course, dear Tadeusz,\
-> evil (and good) comes from man.
+> Simply let mankind\
+> extinguish itself\
+> And then innocent sunrises will illuminate\
+> liberated flora and fauna
+> 
+> Oak forests will grow\
+> on postindustrial wastelands\
+> The blood of a deer ripped apart by wolves\
+> will not be seen by anyone\
+> A hawk will fall, unwitnessed,\
+> upon a rabbit
+> 
+> Evil will disappear from the world\
+> once consciousness does
 
 #### *Do you see now the connection?*
 
