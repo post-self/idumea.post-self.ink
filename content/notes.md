@@ -147,6 +147,24 @@ Cf. The Carpenters:
 > Why do stars fall down from the sky, ev'ry time you walk by?\
 > Just like me, they long to be close to you
 
+#### \[...\] *that sweet field arrayed in living green* \[...\]
+
+Cf. Samuel Stennett:
+
+> Oh, the transporting, rapturous scene\
+> That rises to my sight!\
+> Sweet fields arrayed in living green,\
+> And rivers of delight!
+
+And yet, considering the role the climate crisis played in making the System our own little heaven, consider also a later verse:
+
+> No chilling winds or poisonous breath\
+> Can reach that healthful shore;\
+> Sickness and sorrow, pain and death,\
+> Are felt and feared no more.
+
+But, ah–! I will doubtless speak more on the System as heaven to come...
+
 #### \[...\] *a Blakean energetic hell.*
 
 From Blake:
