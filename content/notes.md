@@ -402,6 +402,175 @@ Cf. Cummings:
 > and staggered banged with terror through\
 > a million billion trillion stars.
 
+#### \[...\] *unbitter sweetness* \[...\]
+
+<style>
+.bees {
+    width: 100%;
+    height: auto;
+}
+.bees tspan {
+    color: #222;
+}
+.dark-mode .bees tspan {
+    fill: #eee;
+}
+</style>
+<svg
+   class="bees"
+   width="109.82515mm"
+   height="107.42602mm"
+   viewBox="0 0 109.82515 107.42602"
+   version="1.1"
+   id="svg64023"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs64020" />
+  <g
+     id="layer1"
+     transform="translate(-18.134214,-55.113764)">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;stroke-width:0.264583"
+       x="118.46004"
+       y="7.6082206"
+       id="text65518"
+       transform="rotate(30)"><tspan
+         id="tspan65516"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.46004"
+         y="7.6082206">bees are those</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.46004"
+         y="12.899883"
+         id="tspan65520">who give us sweet</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.46004"
+         y="18.191545"
+         id="tspan65522">in exchange for</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.46004"
+         y="23.483208"
+         id="tspan65524">the names of the dead</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;stroke-width:0.264583"
+       x="-116.85082"
+       y="-107.22199"
+       id="text67496"
+       transform="rotate(-150)"><tspan
+         id="tspan67494"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-116.85082"
+         y="-107.22199">is it any wonder</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-116.85082"
+         y="-101.93033"
+         id="tspan67498">then</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-116.85082"
+         y="-96.638672"
+         id="tspan67500">that honey</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-116.85082"
+         y="-91.347008"
+         id="tspan67502">can be so cloying</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;stroke-width:0.264583"
+       x="-107.02618"
+       y="23.275345"
+       id="text77346"
+       transform="rotate(-90)"><tspan
+         id="tspan77344"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-107.02618"
+         y="23.275345">we may marvel</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-107.02618"
+         y="28.567007"
+         id="tspan77348">at how unbitter</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-107.02618"
+         y="33.858669"
+         id="tspan77350">distilled names</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-107.02618"
+         y="39.15033"
+         id="tspan77352">can be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.25673px;line-height:1.25;stroke-width:0.266046"
+       x="8.5607595"
+       y="80.309456"
+       id="text80062"
+       transform="matrix(0.87081288,-0.49725115,0.50276405,0.86126425,0,0)"><tspan
+         id="tspan80060"
+         style="text-align:center;text-anchor:middle;stroke-width:0.266046"
+         x="8.5607595"
+         y="80.309456">and still weep</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.266046"
+         x="8.5607595"
+         y="85.630371"
+         id="tspan80064">at parching-sweet</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.266046"
+         x="8.5607595"
+         y="90.951279"
+         id="tspan80066">memory</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.266046"
+         x="8.5607595"
+         y="96.272194"
+         id="tspan82708">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;stroke-width:0.264583"
+       x="108.30054"
+       y="-122.81824"
+       id="text86396"
+       transform="rotate(90)"><tspan
+         id="tspan86394"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="108.30054"
+         y="-122.81824">we whisper</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="108.30054"
+         y="-117.52657"
+         id="tspan86398">to their hives</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="108.30054"
+         y="-112.23491"
+         id="tspan86400">then wait a season</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="108.30054"
+         y="-106.94325"
+         id="tspan86402">for honey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;stroke-width:0.264583"
+       x="-9.4306927"
+       y="-180.53712"
+       id="text87528"
+       transform="rotate(150)"><tspan
+         id="tspan87526"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-9.4306927"
+         y="-180.53712">licking it</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-9.4306917"
+         y="-175.24547"
+         id="tspan87530">from sticky fingers</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-9.4306927"
+         y="-169.9538"
+         id="tspan87532">when we steal</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-9.4306927"
+         y="-164.66214"
+         id="tspan87786">a taste</tspan></text>
+  </g>
+</svg>
+
 #### Idumea
 
 *Idumea* is named after a hymn by A. Davidson with words by Charles Wesley, published in *Sacred Tunes and Hymns: Containing a Special Collection of a Very High Order of Standard Sacred Tunes and Hymns Novel and Newly Arranged* by J. S. James in 1913. Idumea itself refers to Edom, a kingdom in the Ancient Near East. While this has little to do with the story told within, it does sound rather pleasing to the ear, does it not? And so does the hymn, at that. The hollowness of the song with all its open fifths, the raw, coarse beauty that comes with Sacred Harp singing, the beat of the tactus and the ache of the singers hollering out words that nearly yearn for death are what led to the title of this book.
