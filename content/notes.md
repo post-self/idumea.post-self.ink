@@ -40,6 +40,8 @@ I spoke of this with writer friends, and one of them, the ever delightful Seras 
 
 Now here I am, once more coming down from my overflow, once more feeling somewhat grounded, the world around once more made of things which are not yet more words, and I have to contend with the reality that this remains, for the most part, a funny little note, and that this story no longer quite reads as that real-boy-to-inanimate-tree pipeline, tired trope that I am sure it is.
 
+Instead, I must hope that The Woman has indeed escaped such a cycle, and I must hope that those along her way were in some roundabout way the bodhisattvas in her life.
+
 ## Part 2
 
 #### \[...\] *am I a falcon, a storm, or a great song?*
@@ -147,7 +149,9 @@ Cf. Slow Hours:
 > Incontestible,\
 > Unmoving and always changing.
 
-#### It was a land of long, rolling hills and yet longer flat basins that always drank most thirstily from the seasonal storms that did their best to thrash the Earth below.
+## Part 5
+
+#### *It was a land of long, rolling hills and yet longer flat basins that always drank most thirstily from the seasonal storms that did their best to thrash the Earth below.*
 
 Cf. Dwale:
 
@@ -160,11 +164,27 @@ I will admit, my friends, that I had considered penning in the rest of this poem
 
 And I am raw, far too raw, to tell it.
 
-## Part 5
-
 #### On The Child's paintings
 
 I have written extensively on these hyper-black shapes that The Child paints and more about her besides in [*Motes Played*](https://motes-played.post-self.ink). A little book for little skunks, yes? For she deserves her story told --- and just so! Just like this! A tale written in a style befitting her --- as much as does The Woman.
+
+#### \[...\] *all the world's a horror.*
+
+Cf. Shakespeare
+
+> All the world's a stage,\
+> And all the men and women merely players;\
+> They have their exits and their entrances \[...\]
+
+"As You Like It" act II scene VII
+
+#### \[...\] *through a glass darkly.*
+
+Cf. 1 Cor 13:11-13 (KJV)
+
+> <sup>11</sup> When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. <sup>12</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. <sup>13</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+
+((Maybe more from the chapter? I also had a thought about A Scanner Darkly but forgot))
 
 ## Part 6
 
