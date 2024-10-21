@@ -2,6 +2,10 @@
 title: Notes
 ---
 
+How do I explain such a page of notes? How do I tell you, beloved readers, that, the more I write, the more feverish my pace, the greater the pull of my graphomania upon my wrist, the more words flow through me *period?* Words that are my own. Words that are nonsense. Words that are, yes, the words of others. It yanks and tugs on my wrist, its other hand — paw? — lingering so sweetly on my neck, drawing lazy fingers across as though to bleed me dry of ink, and from out of me spills my words and also the words that have ever made me what I am.
+
+Here, then, are the references as I remember them. I will apologize no further.
+
 ## Epigraph
 
 #### *But you are eternity and you are the mirror.*
@@ -63,6 +67,19 @@ From Rilke:
 > and I circle for thousands of years\
 > and I still don't know: am I a falcon,\
 > a storm, or a great song?
+
+#### [...] dance unblushing [...]
+
+Cf. Darius Halley:
+
+> We turn to dust\
+> Get swept away\
+> To make room for\
+> Empty nothing\
+> Amble through the\
+> Air and find a\
+> Ray of light and\
+> Dance unblushing
 
 ## Part 4
 
@@ -129,6 +146,19 @@ Cf. Slow Hours:
 > Incomprehensible,\
 > Incontestible,\
 > Unmoving and always changing.
+
+#### It was a land of long, rolling hills and yet longer flat basins that always drank most thirstily from the seasonal storms that did their best to thrash the Earth below.
+
+Cf. Dwale:
+
+> The seasonal storms have poured upon the grassy flat,\
+> The leafless stalks abound like thirsty mouths.\
+> Puddles form and soon are swarmed with little fish,\
+> And all the arid life has fled despair.
+
+I will admit, my friends, that I had considered penning in the rest of this poem of Dwale's, for it is replete with references joyful and otherwise — "Within her womb there grows a golden bloom": you can see the association with dandelions, yes? Those flowers we are helplessly taken with? — but it is raw, far too raw, to be thinking about the death of winter and the growth implicit in spring when this story I have told ends as it does.
+
+And I am raw, far too raw, to tell it.
 
 ## Part 5
 
@@ -424,7 +454,7 @@ Cf. Slow Hours:
 
 #### Idumea
 
-*Idumea* is named after a hymn by A. Davidson with words by Charles Wesley, published in *Sacred Tunes and Hymns: Containing a Special Collection of a Very High Order of Standard Sacred Tunes and Hymns Novel and Newly Arranged* by J. S. James in 1913. Idumea itself refers to Edom, a kingdom in the Ancient Near East. While this has little to do with the story told within, it does sound rather pleasing to the ear, does it not? And so does the hymn, at that. The hollowness of the song with all its open fifths, the raw, coarse beauty that comes with Sacred Harp singing, the beat of the tactus and the ache of the singers hollering out words that nearly yearn for death are what led to the title of this book.
+*Idumea* is named after a hymn by A. Davidson with words by Charles Wesley, published in *Sacred Tunes and Hymns: Containing a Special Collection of a Very High Order of Standard Sacred Tunes and Hymns Novel and Newly Arranged* by J. S. James in 1913. Idumea itself refers to Edom, a kingdom in the Ancient Near East. While this has little to do with the story told within — unless, perhaps, you are Blake and think that "Now is the dominion of Edom, and the return of Adam into Paradise" refers to us! — it does sound rather pleasing to the ear, does it not? And so does the hymn, at that. The hollowness of the song with all its open fifths, the raw, coarse beauty that comes with Sacred Harp singing, the beat of the tactus and the ache of the singers hollering out words that nearly yearn for death are what led to the title of this book.
 
 Or, as a friend said upon learning of this project, ""Main character escaping suffering while the narrator stays stuck in it" is somewhat analogous to living singers singing songs almost exclusively about how great it will be to die and escape from suffering" — which, as a quote, is quite painful to go back and read for your humble narrator, as I am sure you can imagine.
 
