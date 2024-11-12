@@ -7,7 +7,7 @@
 > 
 > Readers, you must understand that she was in so many ways whole still!
 >
-> I think that The Woman would say, however, that she was too whole. I think she would say that she was too full, too much, too alive. I think she would say that almost three hundred years of a life that was lived as hers was was too much life. I think she would laugh that hoarse, dry laugh that always sounded like tears were on the way and say that thirty years was probably too much for her.
+> I think that The Woman would say, however, that she was too whole. I think she would say that she was too full, too much, too alive. I think she would say that almost three hundred years of a life that was lived as hers was too much life. I think she would laugh that hoarse, dry laugh that always sounded like tears were on the way and say that thirty years was probably too much for her.
 >
 > But me, friends? What will become of me?
 

@@ -176,8 +176,6 @@ Cf. Shakespeare
 > And all the men and women merely players;\
 > They have their exits and their entrances \[...\]
 
-"As You Like It" act II scene VII
-
 #### \[...\] *through a glass darkly.*
 
 Cf. 1 Cor 13:11-13 (KJV)
@@ -185,6 +183,18 @@ Cf. 1 Cor 13:11-13 (KJV)
 > <sup>11</sup> When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. <sup>12</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. <sup>13</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
 ((Maybe more from the chapter? I also had a thought about A Scanner Darkly but forgot))
+
+#### *The Sightwright suffered as I do, as The Oneirotect does, and perhaps even as The Woman did.*
+
+Cf. John Winthrop
+
+> Wee must delight in eache other; make other's conditions our oune; rejoice together, mourne together, labour and suffer together, allwayes haueving before our eyes our commission and community in the worke, as members of the same body.
+
+((Rye has big thoughts on clades/System as one body, also community and commission in light of what's coming in the chapter))
+
+#### *With art comes fear.*
+
+I had originally intended referencing I book I used for a season when teaching, *Art & Fear* by David Bayles and Ted Orland, and even shaped the words I truly spoke that day to fit. On rereading, however, I came across the first sentence of chapter 2: "Those who would make art might well begin by reflecting on the fate of those who preceded them: most who began, quit." It was at this point that I had to stop reading and pace anxiously the fields behind our cluster of townhouses, watering with tears the thirsty grasses.
 
 ## Part 6
 
