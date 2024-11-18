@@ -22,7 +22,7 @@ No. Instead, I chose the words of Almustafa, the chosen and the beloved. The Wom
 
 #### *Once upon a time there was--*
 
-Cf. Collodi:
+Cf. Carlo Collodi:
 
 > Once upon a time there was--
 >
@@ -46,7 +46,7 @@ Instead, I must hope that The Woman has indeed escaped such a cycle, and I must 
 
 #### \[...\] *am I a falcon, a storm, or a great song?*
 
-From Rilke:
+From Rainer Maria Rilke:
 
 > Ich lebe mein Leben in wachsenden Ringen,\
 > die sich über die Dinge ziehn.\
@@ -83,13 +83,25 @@ Cf. Darius Halley:
 > Ray of light and\
 > Dance unblushing
 
+## Part 3
+
+#### *Where is it that my joy has gone?*
+
+Cf. Dan Simmons:
+
+> Then, on a cool morning with my sleeping room rocking slightly in the upper branches of my tree on the Templar world, I awoke to a gray sky and the realization that my muse had fled.
+>
+> It had been five years since I had written any poetry. The *Cantos* lay open in the Deneb Drei tower, only a few pages finished beyond what had been published. I had been using thought processors to write my novels and one of these activated as I entered the study. <span style="font-variant: small-caps">Shit,</span> it printed out, <span style="font-variant: small-caps">What did I do with my muse?</span>
+
+The loss of the intangible stings the most.
+
 ## Part 4
 
 #### \[...\] *as the poet says, shared* \[...\]
 
 (Also in part 9.)
 
-Cf. Paz:
+Cf. Octavio Paz:
 
 > Tendidos en la yerba\
 > una muchacha y un muchacho.\
@@ -170,7 +182,7 @@ I have written extensively on these hyper-black shapes that The Child paints and
 
 #### \[...\] *all the world's a horror.*
 
-Cf. Shakespeare
+Cf. William Shakespeare
 
 > All the world's a stage,\
 > And all the men and women merely players;\
@@ -180,17 +192,43 @@ Cf. Shakespeare
 
 Cf. 1 Cor 13:11-13 (KJV)
 
-> <sup>11</sup> When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. <sup>12</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. <sup>13</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+> <sup>12</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. <sup>13</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
-((Maybe more from the chapter? I also had a thought about A Scanner Darkly but forgot))
+What a strange man Paul who was Saul of Tarsus was! We, the Ode clade, are Jews by inheritance, if not by belief, and yet even we cannot escape the cultural Christianity that so pervaded society phys-side when still we lived there.
+
+And it is not without beauty, yes? For this passage is beautiful, and so too is more of this chapter:
+
+> <sup>4</sup> Love *[as recent versions translate the 'charity' above. —Rye]* is patient; love is kind; love is not envious or boastful or arrogant <sup>5</sup> or rude. It does not insist on its own way; it is not irritable; it keeps no record of wrongs; 6 it does not rejoice in wrongdoing but rejoices in the truth. 7 It bears all things, believes all things, hopes all things, endures all things.
+>
+> <sup>8</sup> Love never ends. But as for prophecies, they will come to an end; as for tongues, they will cease; as for knowledge, it will come to an end. <sup>9</sup> For we know only in part, and we prophesy only in part, <sup>10</sup> but when the complete comes, the partial will come to an end.
+
+Just as it is not without its terror, yes? For verse 11 was used against The Child in a cutting letter from Hammered Silver, first line of the sixth stanza, from the NRSVUE translation used above:
+
+> <sup>11</sup> When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became an adult, I put an end to childish ways.
+
+Such bitterness! Words as a weapon! I write below of how we loathe our connections, and here was a moment of that loathing, for I remember well the pain that we all felt at that cruelty, but this is not that story, and so I will linger on the ideas of 
 
 #### *The Sightwright suffered as I do, as The Oneirotect does, and perhaps even as The Woman did.*
 
 Cf. John Winthrop
 
-> Wee must delight in eache other; make other's conditions our oune; rejoice together, mourne together, labour and suffer together, allwayes haueving before our eyes our commission and community in the worke, as members of the same body.
+> We must delight in each other; make others' conditions our own; rejoice together, mourn together, labor and suffer together, always having before our eyes our commission and community in the work, as members of the same body.
+> 
+> [...]
+>
+> All the parts of this body being thus united are made so contiguous in a special relation as they must needs partake of each other's strength and infirmity, joy and sorrow, weal and woe. (1 Cor. 12:26) If one member suffers, all suffer with it; if one be in honor, all rejoice with it.
 
-((Rye has big thoughts on clades/System as one body, also community and commission in light of what's coming in the chapter))
+I have little care for sermons written by 17<sup>th</sup> century imperialist Christian politicians but for these occasional little quips. It is, perhaps, a thing belonging more to sermons than to the time or the people. Here, we see in Winthrop's words an idea that has wrapped around itself within my mind and formed itself into a new take on clades and family and life sys-side as a whole, these last eight years.
+
+We are one body, the Ode clade. We are one body and we each of us Odists are members thereof. We do indeed rejoice together, mourn together, labor and suffer together, do we not? 
+
+We may hate that at times. We may loathe that we be thus united and we may resent that we must make each others' conditions our own. We have proven that to ourselves most assiduously over the years, for the clade has fractured in ways large and small.
+
+And yet, we are still one body. We are still all of us Michelle Hadje who was Sasha. We are still all of us connected, and if one of us suffers, all of us suffer with them, for even if we may wear some smug smile of satisfaction that one of our dearly beloathèd is in pain, such resentment is a suffering.
+
+Imagine such on the scale of the System, though! All of us members of one body! 2.3 trillion of us live here, and we are all beholden to the same piece of hardware, the same Dreamer dreaming us all in all of our love and all of our stupid, petty little squabbles that make us who we are–
+
+I have gotten carried away. The Sightwright suffered as I do, as The Oneirotect does, and perhaps even as The Woman did, and so we all suffered with them, and the fallout of their loss is with us still.
 
 #### *With art comes fear.*
 
@@ -227,7 +265,7 @@ But, ah–! I will doubtless speak more on the System as heaven to come...
 
 #### \[...\] *a Blakean energetic hell.*
 
-From Blake:
+Cf. William Blake:
 
 > Without contraries is no progression. Attraction and repulsion, reason and energy, love and hate, are necessary to human existence.
 >
@@ -237,7 +275,7 @@ From Blake:
 
 I have dreamed of turning into a tree for years and years and years and years and years, now.
 
-For instance, I have written here that I put this dream into verse, and this is true, for here is a segment from a longer work:
+For instance, I have written here that Slow Hours set this dream into verse — on my request — and this is true, for here is a segment from a longer work:
 
 > We'd long since stopped, there by the pond,\
 > and your smile was, yes, sad, but still fond\
@@ -287,7 +325,7 @@ For instance, I have written here that I put this dream into verse, and this is 
 > I thought about you, your life, your emotional range,\
 > your gentle apotheosis.
 
-I have also written here that I put this dream into prose, and this is also true, for her is a segment from a short story:
+I have written, too, here that I put this dream into prose, and this is also true, for here is a segment from a short story:
 
 > And finally, the mirroring was broken as the *her* that was not her slid *her* fingers up over her wrist and gently guided her hand down toward the soil, loamy and damp, and she knew then that she must spread her fingers and dig them down into the earth, there by the stairs which were a finger pointing at God such that she was in turn pointing at...at what? At the owner of that hand? At the owner of that finger?
 >
@@ -345,7 +383,7 @@ From Qohelet 3:20:
 
 #### *The blood of deer ripped to shreds by wolves!*
 
-Cf. Miłosz:
+Cf. Czesław Miłosz:
 
 > wystarczy pozwolić człowiekowi\
 > wytruć swój rodzaj\
@@ -393,11 +431,28 @@ Cf. Rilke:
 > into the spaces we breathe. It may be that the birds\
 > will feel the expanded air in more spirited flight.
 
+And yet I had also in mind the cadence of Nabokov: "Give me now your full attention." A plea that one be understood.
+
+I am no poet, but I will not deny the utility in verse when it comes to scratching the itch of words: 
+
+> I can't tell you how\
+> I knew - but I did know that I had crossed\
+> The border. Everything I loved was lost\
+> But no aorta could report regret.\
+> A sun of rubber was convulsed and set;\
+> And blood-black nothingness began to spin\
+> A system of cells interlinked within\
+> Cells interlinked within cells interlinked\
+> Within one stem. And dreadfully distinct\
+> Against the dark, a tall white fountain played.
+
+And here am I within a System of selves interlinked within selves interlinked within selves interlinked within one dream.
+
 ## Part 9
 
 #### \[...\] *beyond providing an instance for Ashes Denote That Fire Was.*
 
-From Dickinson:
+From Emily Dickinson:
 
 > Ashes denote that Fire was ---\
 > Revere the Grayest Pile\
@@ -432,6 +487,25 @@ Cf. Graves:
 > She, then, like snow in a dark night\
 > Fell secretly.
 
+#### *That unfalling ones are trapped within that last falling!*
+
+Cf. Richard Threadgall:
+
+> Tell to me the secret life of birds.\
+> No solicitors of the hungry sky are they;\
+> No, nor is the rainwater parting head a bookhouse dialect,\
+> Or antiquary\
+> But says, "I am citizen to the eternal now,\
+> Republic builder of unfalling ones."\
+> Bound to remembering blood and numbered suns,\
+> What speech do we give him from our earthy furrow?\
+> That he has no history who has feared no pain?\
+> That ev'ry bird who falls with broken wing\
+> Halts summary in the stone that breaks his brain–\
+> That unfalling ones are trapped in that last falling? \
+> What stale rejoinders birds are unmoored with!\
+> The unsuffering sky exhales them in a breath.
+
 #### *"Oh! Oh, I do believe this is some plentiful enough for me."*
 
 Cf. Rilke:
@@ -456,7 +530,7 @@ One imagines that a 'plentiful enough' lies at some theoretical midpoint on this
 
 #### \[...\] *breathe in a million billion trillion years* \[...\]
 
-Cf. Cummings:
+Cf. E. E. Cummings:
 
 > i put him all into my arms\
 > and staggered banged with terror through\
