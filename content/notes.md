@@ -12,7 +12,7 @@ Here, then, are the references as I remember them. I will apologize no further.
 
 From *The Prophet.*
 
-I had originlly intended to use the lyrics from the hymn titled "Idumea", which is included in the next appendix, but-- ah! For some reason, it did not fit. I could not tell you why, dear reader. Perhaps it was the strong Christian nature of the text after a certain point, which fit strangely for the Odists, notably Jewish as they are. It, after all, is what spurred the language at the end of my...we shall call it a little meltdown at the end, there, yes?
+I had originally intended to use the lyrics from the hymn titled "Idumea", which is included at the end of the text, but-- ah! For some reason, it did not fit. I could not tell you why, dear reader. Perhaps it was the strong Christian nature of the text after a certain point, which fit strangely for the Odists, notably Jewish as they are. It, after all, is what spurred the language at the end of my...we shall call it a little meltdown at the end, there, yes?
 
 Perhaps it was that, as the story filled out within the middle, it just did not fit. I, Rye, suffered, perhaps. I wailed, "What will become of me?" I am the one who was overcome by overflow. I promise you, my friends, I *promise* you, however, that this is not my story. The judgment is upon my head for what I have done, but it is not my story. This story belongs to The Woman.
 
@@ -190,7 +190,7 @@ Cf. William Shakespeare
 
 #### \[...\] *through a glass darkly.*
 
-Cf. 1 Cor 13:11-13 (KJV)
+Cf. 1 Cor 13:12-13 (KJV)
 
 > <sup>12</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. <sup>13</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
@@ -470,7 +470,7 @@ Is it so surprising, then, that after cross-tree merging had been introduced as 
 
 #### \[...\] *perhaps like those leaves that skitter within the city, that unreal city* \[...\]
 
-Cf. Baudelaire via Eliot:
+Cf. Charles Baudelaire via Eliot:
 
 > *Fourmillante cité, cité pleine de rêves,\
 > Où le spectre en plein jour raccroche le passant.*
@@ -482,7 +482,7 @@ Cf. Baudelaire via Eliot:
 
 #### *She, then, like so many leaves* \[...\]
 
-Cf. Graves:
+Cf. Robert Graves:
 
 > She, then, like snow in a dark night\
 > Fell secretly.
