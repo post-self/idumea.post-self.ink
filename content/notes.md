@@ -180,9 +180,19 @@ And I am raw, far too raw, to tell it.
 
 I have written extensively on these hyper-black shapes that The Child paints and more about her besides in [*Motes Played*](https://motes-played.post-self.ink). A little book for little skunks, yes? For she deserves her story told --- and just so! Just like this! A tale written in a style befitting her --- as much as does The Woman.
 
+#### It is _enjoyable,_ and often it is _loved,_ but it is not really _beloved._
+
+Cf. David Rakoff:
+
+> Should you happen to be possessed of a certain verbal acuity coupled with a relentless, hair-trigger humor and surface cheer spackling over a chronic melancholia and loneliness — a grotesquely caricatured version of your deepest self, which you trot out at the slightest provocation to endearing and glib comic effect, thus rendering you the kind of fellow who is beloved by all yet loved by none, all of it to distract, however fleetingly, from the cold and dead-faced truth that with each passing year you face the unavoidable certainty of a solitary future in which you will perish one day while vainly attempting the Heimlich maneuver on yourself over the back of a kitchen chair — then this confirmation that you have triumphed again and managed to gull yet another mark, except this time it was the one person you’d hoped might be immune to your ever-creakier, puddle-shallow, sideshow-barker variation on adorable, even though you’d been launching this campaign weekly with a single-minded concentration from day one — well, it conjures up feelings that are best described as mixed, to say the least.
+
+The distinction between a thing that is *loved* and a thing that is *beloved* is a type of subtlety that we seem to enjoy dwelling within rather a lot. The Instance Artist has spoken of an anxiety that it might be the type of person who is "beloved by all yet loved by none," given how difficult it felt for it to let anyone get truly close to it. The Oneirotect describes food the other way around, however: ey fears that its food may be merely loved, rather than so much more broadly beloved.
+
+One must never ask an author their desires on where their work ought lie on the loved-beloved scale.
+
 #### \[...\] *all the world's a horror.*
 
-Cf. William Shakespeare
+Cf. William Shakespeare:
 
 > All the world's a stage,\
 > And all the men and women merely players;\
