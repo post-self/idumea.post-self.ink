@@ -216,7 +216,7 @@ Just as it is not without its terror, yes? For verse 11 was used against The Chi
 
 > <sup>11</sup> When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became an adult, I put an end to childish ways.
 
-Such bitterness! Words as a weapon! I write below of how we loathe our connections, and here was a moment of that loathing, for I remember well the pain that we all felt at that cruelty, but this is not that story, and so I will linger on the ideas of 
+Such bitterness! Words as a weapon! I write below of how we loathe our connections, and here was a moment of that loathing, for I remember well the pain that we all felt at that cruelty, but this is not that story, and so I will linger on the ideas of glasses darkly.
 
 #### *The Sightwright suffered as I do, as The Oneirotect does, and perhaps even as The Woman did.*
 
@@ -590,3 +590,4 @@ I do not know, my dear readers. I do not know these things and I do not know man
 Perhaps, though, perhaps the × stands for the decision that I made. It is the role I played in letting The Woman, that beautiful soul who bestowed a blessing with every smile, step away from the world, for removing those blessings from us, that beauty from us, that life, that veil.
 
 I am so, so incredibly sorry, and also rather proud of what I have done, of helping The Woman in so noble an endeavor, in equal measure.
+
