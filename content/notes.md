@@ -349,10 +349,17 @@ I had originally intended referencing I book I used for a season when teaching, 
 
 Cf. The Carpenters:
 
-> Why do birds suddenly appear, ev'ry time you are near?\
-> Just like me, they long to be close to you\
-> Why do stars fall down from the sky, ev'ry time you walk by?\
-> Just like me, they long to be close to you
+> Why do birds suddenly appear,\
+> ev'ry time you are near?\
+> Just like me,\
+> they long to be\
+> close to you
+>
+> Why do stars fall down from the sky,\
+> ev'ry time you walk by?\
+> Just like me,\
+> they long to be\
+> close to you
 
 -----
 
