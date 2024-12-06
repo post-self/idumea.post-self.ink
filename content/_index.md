@@ -11,23 +11,9 @@
 >
 > But me, friends? What will become of me?
 
-Coming August 1, the [Kickstarter campaign for *Idumea*](https://www.kickstarter.com/projects/drabmakyo/idumea) will begin! Help fund a new novella in the Post-Self setting. Written by Madison Rye Progress with contributions from Samantha Yule Fireheart and Krzysztof "Tomash" Drewniak, the story explores the escape from samsara in a digital world, and the effects of trauma on the functionally immortal.
-
-## Stretch goals
-
-Should funding extend beyond the goal of $500, the scope of the project will be expanded!
-
-* $1,000 — A hardcover edition of *Idumea.*
-* $1,500 — Post-Self anthology of fairy tales and fables, with short stories written by members of the Post-Self community, with the authors being paid.
-* $2,000 — A separate, commissioned cover illustration for the hardcover edition.
-* $2,500 — Interior illustrations depicting some scenes in the style of old, serialized stories such as the original Pinocchio.
-
-[**Check it out!**](https://www.kickstarter.com/projects/drabmakyo/idumea)
-
 ## Content notes
 
 This book touches on the plots of [The Post-Self Cycle](https://post-self.ink/cycle), as well as that of [*Marsh*](https://marsh.post-self.ink). It is still a standalone novel, but might benefit from having read those works first. These works and more may all be found [post-self.ink](https://post-self.ink) as paperbacks, ebooks, and free to read in the browser.
-
 
 This story contains themes of self-harm, suicide, and poor mental health.
 
@@ -60,3 +46,12 @@ She, too, wonders if she is born to die. What, dear readers, will become of her?
 <span style="opacity: 0.02">What will become of her? </span>
 <span style="opacity: 0.01">What will become of her? </span>
 
+## Acknowledgments 
+
+Thanks is due first of all to Jacob Geller, who knows me not, for he created a video on the story of Pinocchio that touched me so deeply that I began this project in the first place. Thanks also to Tomash and Yule, who contributed so much to this story; it would not be what it is without them. To Isiat, adoration for his boundless support. To barnaby on the Apocrypals Discord for help with Sacred Harp hymns. To Mae and Taija and Andréa C. Mason for reminding me that my work is indeed read. Finally, I will forever sing the praises of my polycule and those within for their support and love, and for the privilege of loving them in turn.
+
+-----
+
+*Idumea* was funded by a Kickstarter campaign. These are those who brought it to fruition:
+
+***Krzysztof “Tomash” Drewniak, Andréa CERES Mason,** Alexandria Christina Leal, Nathan Merrifield, Taija, Fiona Adams, Stephen Moore, Xideron, Ashley Hale,* Amdusias, Fén Cupit, ramshackle heather, doctorlit, nova, Ash Holland, Michael Miele, Webster Leone, Clover Arizona, Aulden Stargazer, raine, Astra Jones, David Scoggins, Rachel Dillon.  Charles S. Petrov Neutrino, Chandler Hines, Royce Day, Isiat, Craig, ubuntor, Joel Kreissman, Sethvir, Barac Baker Wiley.

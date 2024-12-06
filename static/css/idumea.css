@@ -134,6 +134,12 @@ summary {
     margin-top: 1rem;
     cursor: pointer;
 }
+
+main .verse {
+    margin: 1rem 0;
+    padding: 0 0 0 2rem;
+    border-left: 4px solid #ddd;
+}
     
 @media only screen and (max-width: 960px) {
     .carousel nav {
