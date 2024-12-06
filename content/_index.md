@@ -11,7 +11,7 @@
 >
 > But me, friends? What will become of me?
 
-<p style="text-align: center; text-indent: 0"><A tale of the escape from suffering in a digital world — and the effects of trauma on the functionally immortal</em></p>
+<p style="text-align: center; text-indent: 0">A tale of the escape from suffering in a digital world — and the effects of trauma on the functionally immortal</p>
 
 ## Content notes
 
