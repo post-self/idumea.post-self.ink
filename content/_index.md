@@ -11,6 +11,8 @@
 >
 > But me, friends? What will become of me?
 
+<p style="text-align: center; text-indent: 0"><A tale of the escape from suffering in a digital world — and the effects of trauma on the functionally immortal</em></p>
+
 ## Content notes
 
 This book touches on the plots of [The Post-Self Cycle](https://post-self.ink/cycle), as well as that of [*Marsh*](https://marsh.post-self.ink). It is still a standalone novel, but might benefit from having read those works first. These works and more may all be found [post-self.ink](https://post-self.ink) as paperbacks, ebooks, and free to read in the browser.
