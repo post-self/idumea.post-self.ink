@@ -695,13 +695,13 @@ Till Love and Fame to nothingness do sink.{{% /verse %}}
 
 Cf. Charles Baudelaire via Eliot:
 
-{{% verse %}}}*Fourmillante cité, cité pleine de rêves,
-Où le spectre en plein jour raccroche le passant.*
-
------
-
-Unreal city, city full of dreams,\
-Where ghosts in broad daylight cling to passsers-by.{{% /verse %}}
+> *Fourmillante cité, cité pleine de rêves,*\
+> *Où le spectre en plein jour raccroche le passant.*
+>
+> -----
+>
+> Unreal city, city full of dreams,\
+> Where ghosts in broad daylight cling to passsers-by.
 
 -----
 
