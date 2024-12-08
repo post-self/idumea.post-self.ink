@@ -267,7 +267,7 @@ Cf. John Keats:
 
 The Oneirotect uses for itself several pronouns — though the set you see here in this text are 'she', 'they', 'ey', and 'it' — which serves as a reflection both of its critter nature and the fluidity of eir engagement with gender– no, with the slipperiness of identity as a whole. This is the role of language with identity: to be a poor reflection through some imperfect mirror, a version of the self seen through some glass, darkly.
 
-You will note the same is also true of The Dog, who, yes, is prone to a critter nature, but who also sometimes views himself as 'he' and sometimes itself as 'it'. For better or worse the identity of animals, of 'low beasts', is entwined with that of *things,* and for some, that is a joy.
+You will note the same is also true of The Dog, who, yes, is prone to a critter nature, but who also sometimes views himself as 'it' and sometimes itself as 'he'. For better or worse the identity of animals, of 'low beasts', is entwined with that of *things,* and for some, that is a joy.
 
 -----
 
