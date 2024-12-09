@@ -193,16 +193,6 @@ The writer, as ever, is a character in their own works, no matter the role they 
 
 Cf. Echo:
 
-> My wileling is not the sort of woman you spend a diamond on —\
-> And I don't just mean to allude to her anti-capitalist streak —\
-> No, she is the sort you paint in gold and scarlet,\
-> The only colors befitting a minx such as she,\
-> A cat-eyed woman, the sort who speaks in tongues;\
-> That which men with pitchforks called the Devil's tongue\
-> As she burned at the stake.
-> 
-> Blood and electrum for my wileling;\
-> Only the best for her.\
 > She is to me a cherished thing,\
 > A queen to a throne, with the wit to reign regent.\
 > So, to say that she is mine is indeed a crime.\
