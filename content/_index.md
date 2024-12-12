@@ -3,6 +3,12 @@
 
 ![Idumea by Madison Rye Progress](/cover-front.jpg)
 
+<p class="buy">
+<a href="https://makyo.itch.io/idumea" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/idumea/21" target="_blank">Order paperback</a> 
+<a href="/read">Read in the browser</a>
+</p>
+
 > The Woman was too present. She was too much herself, too human, too embodied within her vessel as it spiraled out of control, too stuck in her mind as it twisted in on itself.
 > 
 > Readers, you must understand that she was in so many ways whole still!
