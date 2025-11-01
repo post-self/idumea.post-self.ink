@@ -15,7 +15,7 @@ disablePathToLower = true
     author = 'Madison Rye Progress'
     home = 'https://makyo.ink/'
     copyright = '2024'
-    subtitle = 'A Post-Self Story'
+    subtitle = 'Stories of Restoration'
     subtitleLink = 'https://post-self.ink'
     customCSS = ['/css/idumea.css']
 
