@@ -9,7 +9,7 @@ disablePathToLower = true
     path = ""
 
 [permalinks]
-    post = '/:filename/'
+    post = '/:contentbasename/'
 
 [params]
     author = 'Madison Rye Progress'
