@@ -43,7 +43,7 @@ ul {
     list-style-type: revert;
     padding-left: 2rem;
 }
-hr::before {
+main hr::before {
     content: '×';
     display: block;
     text-align: center; 
